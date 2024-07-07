@@ -11,4 +11,4 @@
    ```bash
    ruby encrypt.rb
    ```
-  - Setelah menjalankan program anda akan melihat hasil file <code>result-encrypt.txt.enc</code>
+  - Setelah menjalankan program anda akan melihat hasil file <code>result-encrypted.txt.enc</code>
