@@ -56,4 +56,4 @@ key = key.slice(0, 32) # Ensure key is exactly 32 bytes
 encrypt_file('example.txt', key)
 
 # Result the file Encrypt
-decrypt_file('encrypted.txt.enc', key)
+decrypt_file('result-encrypted.txt.enc', key)
