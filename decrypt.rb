@@ -29,4 +29,4 @@ key = 'This is a key123This is a key123' # Example key
 key = key.ljust(32, '0')[0, 32] # Ensure key is exactly 32 bytes
 
 # Decrypt the file and save the result to result-decrypt.txt
-decrypt_file('result-encrypt.txt.enc', key, 'result-decrypt.txt')
+decrypt_file('result-encrypted.txt.enc', key, 'result-decrypted.txt')
