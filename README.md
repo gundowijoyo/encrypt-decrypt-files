@@ -7,3 +7,8 @@
    git clone https://github.com/gundowijoyo/encrypt-decrypt-files.git
    cd encrypt-decrypt-files
    ```
+3. Jalankan program
+   ```bash
+   ruby encrypt.rb
+   ```
+  - Setelah menjalankan program anda akan melihat hasil file <code>result-encrypt.txt</code>
