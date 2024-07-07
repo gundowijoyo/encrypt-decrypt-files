@@ -12,3 +12,11 @@
    ruby encrypt.rb
    ```
   - Setelah menjalankan program anda akan melihat hasil file <code>result-encrypted.txt.enc</code>
+
+- Jika anda ingin meng decrypted hasil dari encrypted file tadi silahkan jalankan perintah <code>ruby decrypt.rb</code>.
+Setelah itu akan ada hasil file decryped nya yaitu <code>result-decrypt.txt</code>
+
+## Selamat mencoba Semoga bermanfaat 
+- Kalian bisa mengclone repository ini dan di modifikasi lagi code2 nya, untuk kunci key ada di dalam code tersebut.
+
+@Copyright Gundo wijoyo 
